@@ -1,0 +1,18 @@
+.navbar-centered {
+  top: 20%;
+  bottom: 5%;
+
+}
+
+
+#Grades{
+  font-size: 52px;
+  color: white;
+}
+
+
+#Signature{
+  text-align: right;
+  font-style: italic;
+  font-size: 15px;
+}
